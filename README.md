@@ -2,7 +2,7 @@
 
 Vacancy test app for 1520
 
-[APK for x64 devices included]()
+[APK release build included](https://github.com/lifeapps-42/1520-test/releases/tag/1.0.0)
 
 ## To run Project
 
@@ -15,7 +15,7 @@ $ flutter upgrade
 
 - Clone this repo
 ```
-$ git clone 
+$ git clone https://github.com/lifeapps-42/1520-test
 ```
 
 - Get dependencies
