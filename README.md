@@ -1,16 +1,31 @@
-# fifteen_twenty_test
+# 1520 Test
 
-A new Flutter project.
+Vacancy test app for 1520
 
-## Getting Started
+[APK for x64 devices included]()
 
-This project is a starting point for a Flutter application.
+## To run Project
 
-A few resources to get you started if this is your first Flutter project:
+- First install Flutter SDK with help of [Google official guide](https://flutter.dev/docs/get-started/install)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- If Flutter is already installed, make sure you have the lastest version of SDK
+```
+$ flutter upgrade
+```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Clone this repo
+```
+$ git clone 
+```
+
+- Get dependencies
+```
+$ flutter pub get
+```
+
+- Connect iOS Simulator/Android Emulator or physical device
+
+- Press F5 to run project or:
+```
+$ flutter run
+```
